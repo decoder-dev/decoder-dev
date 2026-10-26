@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="164" viewBox="0 0 600 164" role="img" aria-labelledby="title desc">
+  <title id="title">Private Music</title>
+  <desc id="desc">Featured project — an unofficial VK Music client.</desc>
+  <rect width="600" height="164" rx="16" fill="#171c1c"/>
+  <rect x="1" y="1" width="598" height="162" rx="15" fill="none" stroke="#333e38"/>
+  <text x="28" y="30" fill="#bfd2a7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2">FEATURED PROJECT</text>
+  <text x="26" y="91" fill="#e8e5df" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5">Private Music</text>
+  <text x="28" y="132" fill="#b4bdaa" font-family="Arial, Helvetica, sans-serif" font-size="23">Your music, with you.</text>
+  <path d="M410 88h16l8-12 10 30 12-55 13 77 13-94 13 100 13-74 12 49 10-32 10 19 8-8h24" fill="none" stroke="#bfd2a7" stroke-width="3" stroke-linecap="round"/>
+</svg>
